@@ -4,7 +4,7 @@ step2  cd alx-pre_course/0x01-git
 step3  touch up_to_date
 step4  open up_to_date file with note pad text editer
 step5  git commit -m "updating a text"
-step6  git stat
+step6  git status 
 
 
 
