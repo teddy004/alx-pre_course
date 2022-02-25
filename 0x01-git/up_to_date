@@ -2,11 +2,11 @@
 step1  git pull https://github.com/teddy004/alx-pre_course.git
 step2  cd alx-pre_course/0x01-git
 step3  touch up_to_date
-step4  open . "up_to_date file with note pad text editer"
+step4  open . "open up_to_date file with note pad text editer and edit it"
 step5  git add up_to_date
 step6  git commit -m "How to be up to date in git"
-step6  git status 
-step7  git push origin master
+step7  git status 
+step8  git push origin master
 
 
 
